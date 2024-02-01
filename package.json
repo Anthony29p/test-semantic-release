@@ -1,0 +1,15 @@
+{
+  "name": "test-semantic-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "semantic-release": "^23.0.0"
+  }
+}
